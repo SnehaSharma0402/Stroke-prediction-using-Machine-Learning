@@ -1,7 +1,7 @@
 # Stroke Risk Prediction using Machine Learning
 
 Title: Enhancing Stroke Prediction using Machine Learning – A Comparison of Key Algorithms  
-Presented at: CRC 2025, Dubai  
+Presented at: ISDIA 2025, Dubai  
 Date: January 2025  
 Status: Accepted and will be published under Springer
 
